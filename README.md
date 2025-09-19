@@ -27,5 +27,6 @@ and visualizes live traffic distribution using **Matplotlib**.
    ```bash
    pip install scapy prettytable matplotlib
 
-Run...
-python sniffer.py
+Run script...
+
+python network_sniffer.py
