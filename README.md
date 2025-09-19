@@ -20,3 +20,9 @@ and visualizes live traffic distribution using **Matplotlib**.
 - Show a **live updating graph** of protocol distribution
 
 ## 📂 Project Structure
+
+
+## ▶️ How to Run
+1. Install dependencies:
+   ```bash
+   pip install scapy prettytable matplotlib
